@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Metoder__\bin\Debug\net8.0\Metoder__.exe
+C:\Users\Admin\Documents\GitHub\Metoder__\bin\Debug\net8.0\Metoder__.deps.json
+C:\Users\Admin\Documents\GitHub\Metoder__\bin\Debug\net8.0\Metoder__.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Metoder__\bin\Debug\net8.0\Metoder__.dll
+C:\Users\Admin\Documents\GitHub\Metoder__\bin\Debug\net8.0\Metoder__.pdb
+C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\Metoder__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\Metoder__.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\Metoder__.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\Metoder__.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\Metoder__.dll
+C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\refint\Metoder__.dll
+C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\Metoder__.pdb
+C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\Metoder__.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\ref\Metoder__.dll
