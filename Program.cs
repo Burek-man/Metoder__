@@ -15,10 +15,8 @@ double CirkelArea(double radie)
 }
 
 */
-Console.WriteLine();
+Console.WriteLine(Beräknamedelväre(11, 44, 77));
 double Beräknamedelväre(double tal1, double tal2, double tal3)
 {
-
 return (tal1+tal2+tal3) /3;
-
 }

@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\refint\Metoder__.dll
 C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\Metoder__.pdb
 C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\Metoder__.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\ref\Metoder__.dll
+C:\Users\Admin\Documents\GitHub\Metoder__\obj\Debug\net8.0\Metoder__.sourcelink.json
